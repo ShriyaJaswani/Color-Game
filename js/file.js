@@ -12,7 +12,7 @@ function randColor() {
 //Initializing DOM Elements
 const box = document.querySelectorAll('.box');
 const title = document.getElementById('title');
-const result = document.getElementById('strip_item2');
+const result = document.getElementById('strip_item2');//mention this functionality
 const resetBtn = document.querySelector('#strip_item1');
 const easyBtn = document.getElementById('strip_item3');
 const medBtn = document.getElementById('strip_item4');
